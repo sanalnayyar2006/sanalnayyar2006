@@ -5,13 +5,14 @@
 
 - 🌱 I’m currently learning **Advance React, DSA, Game Cut scenes making and 3d modelling**
 
+- Building [Indian Game dev rebellion](https://www.instagram.com/arcavon.official)
+
 - 💬 Ask me about **Frontend, Cutscenes making,**
 
 - 📫 How to reach me **sanalsquad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/arcavon.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arcavon.official" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
